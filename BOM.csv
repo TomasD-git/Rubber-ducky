@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+Hot air station,Will solder everything with this,1,39.54,https://www.aliexpress.com/item/1005007009985561.html,Aliexpress
+PCB + Stencil,"all components are on pcb, stencil for easier soldering",1,15,https://jlcpcb.com,jlcpcb
+All components,all actual components on PCB,depends on each part,55,https://lcsc.com,lcsc
+4 core cable,conects the 2 pcbs together,1,4,https://www.aliexpress.com/item/1005009355432278.html,Aliexpress
+Solder paste,Used for soldering,1,7.19,https://www.aliexpress.com/item/1005008590694612.html,
+Small set of hot air station nozzles,much easier to solder with 3mm nozzle instead of the 12mm that comes with the hot air station,1,5.18,https://www.aliexpress.com/item/1005002724224923.html,
+Kapton Tape,"Covers soldered stuff, so it doesnt get desoldered",1,2.16,https://www.aliexpress.com/item/1005010348863794.html,Aliexpress
+,Total Cost,Est.,128.07,,
